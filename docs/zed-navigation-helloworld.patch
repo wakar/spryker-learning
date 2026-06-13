@@ -1,0 +1,15 @@
+diff --git a/config/Zed/navigation.xml b/config/Zed/navigation.xml
+--- a/config/Zed/navigation.xml
++++ b/config/Zed/navigation.xml
+@@
+ <config>
++    <hello-world>
++        <label>Hello World</label>
++        <title>Hello World</title>
++        <bundle>hello-world</bundle>
++        <controller>index</controller>
++        <action>index</action>
++        <icon>public</icon>
++    </hello-world>
+     <!-- existing navigation entries -->
+ </config>
