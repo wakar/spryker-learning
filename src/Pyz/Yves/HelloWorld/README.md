@@ -46,6 +46,12 @@ The registered plugin is:
 new HelloWorldRouteProviderPlugin()
 ```
 
+The repository includes the highlighted router registration diff at:
+
+```text
+docs/router-dependency-provider.patch
+```
+
 ## Request Flow
 
 ```text
